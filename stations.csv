@@ -1,0 +1,193 @@
+led_index,feed,line,line_name,station,direction,vers,latitude,longitude,rgb_hex
+0,REM,*,REM,Brossard,0,Deux-Montagnes,45.438061,-73.430582,#00C8BE
+1,REM,*,REM,Du Quartier,0,Deux-Montagnes,45.44669,-73.433312,#00C8BE
+2,REM,*,REM,Panama,0,Deux-Montagnes,45.464959,-73.47036,#00C8BE
+3,REM,*,REM,Île-des-Sœurs,0,Deux-Montagnes,45.47033,-73.538899,#00C8BE
+4,REM,*,REM,Gare Centrale,0,Deux-Montagnes,45.499927,-73.566687,#00C8BE
+5,REM,*,REM,McGill,0,Deux-Montagnes,45.502487,-73.572129,#00C8BE
+6,REM,*,REM,Édouard-Montpetit,0,Deux-Montagnes,45.510374,-73.612061,#00C8BE
+7,REM,*,REM,Canora,0,Deux-Montagnes,45.513747,-73.633879,#00C8BE
+8,REM,*,REM,Ville-de-Mont-Royal,0,Deux-Montagnes,45.516514,-73.643454,#00C8BE
+9,REM,*,REM,Côte-de-Liesse,0,Deux-Montagnes,45.52182,-73.661869,#00C8BE
+10,REM,*,REM,Montpellier,0,Deux-Montagnes,45.524803,-73.672223,#00C8BE
+11,REM,*,REM,Du Ruisseau,0,Deux-Montagnes,45.528919,-73.69038,#00C8BE
+12,REM,*,REM,Bois-Franc,0,Deux-Montagnes,45.522026,-73.712503,#00C8BE
+13,REM,*,REM,Des Sources,0,Anse-à-l'Orme,45.477111,-73.791108,#00C8BE
+14,REM,*,REM,Fairview–Pointe-Claire,0,Anse-à-l'Orme,45.459952,-73.835328,#00C8BE
+15,REM,*,REM,Kirkland,0,Anse-à-l'Orme,45.440314,-73.885608,#00C8BE
+16,REM,*,REM,Anse-à-l'Orme,0,Anse-à-l'Orme,45.431592,-73.909908,#00C8BE
+17,REM,*,REM,Anse-à-l'Orme,1,Brossard,45.431592,-73.909908,#00C8BE
+18,REM,*,REM,Kirkland,1,Brossard,45.440314,-73.885608,#00C8BE
+19,REM,*,REM,Fairview–Pointe-Claire,1,Brossard,45.459952,-73.835328,#00C8BE
+20,REM,*,REM,Des Sources,1,Brossard,45.477111,-73.791108,#00C8BE
+21,REM,*,REM,Bois-Franc,1,Brossard,45.522026,-73.712503,#00C8BE
+22,REM,*,REM,Du Ruisseau,1,Brossard,45.528919,-73.69038,#00C8BE
+23,REM,*,REM,Montpellier,1,Brossard,45.524803,-73.672223,#00C8BE
+24,REM,*,REM,Côte-de-Liesse,1,Brossard,45.52182,-73.661869,#00C8BE
+25,REM,*,REM,Ville-de-Mont-Royal,1,Brossard,45.516514,-73.643454,#00C8BE
+26,REM,*,REM,Canora,1,Brossard,45.513747,-73.633879,#00C8BE
+27,REM,*,REM,Édouard-Montpetit,1,Brossard,45.510374,-73.612061,#00C8BE
+28,REM,*,REM,McGill,1,Brossard,45.502487,-73.572129,#00C8BE
+29,REM,*,REM,Gare Centrale,1,Brossard,45.499927,-73.566687,#00C8BE
+30,REM,*,REM,Île-des-Sœurs,1,Brossard,45.47033,-73.538899,#00C8BE
+31,REM,*,REM,Panama,1,Brossard,45.464959,-73.47036,#00C8BE
+32,REM,*,REM,Du Quartier,1,Brossard,45.44669,-73.433312,#00C8BE
+33,REM,*,REM,Brossard,1,Brossard,45.438061,-73.430582,#00C8BE
+34,REM,*,REM,Sunnybrooke,0,Deux-Montagnes,45.503839,-73.785701,#00C8BE
+35,REM,*,REM,Pierrefonds-Roxboro,0,Deux-Montagnes,45.510205,-73.811632,#00C8BE
+36,REM,*,REM,Île-Bigras,0,Deux-Montagnes,45.519906,-73.852951,#00C8BE
+37,REM,*,REM,Sainte-Dorothée,0,Deux-Montagnes,45.52346,-73.862472,#00C8BE
+38,REM,*,REM,Grand-Moulin,0,Deux-Montagnes,45.537255,-73.887885,#00C8BE
+39,REM,*,REM,Deux-Montagnes,0,Deux-Montagnes,45.545683,-73.912413,#00C8BE
+40,REM,*,REM,Deux-Montagnes,1,Brossard,45.545683,-73.912413,#00C8BE
+41,REM,*,REM,Grand-Moulin,1,Brossard,45.537255,-73.887885,#00C8BE
+42,REM,*,REM,Sainte-Dorothée,1,Brossard,45.52346,-73.862472,#00C8BE
+43,REM,*,REM,Île-Bigras,1,Brossard,45.519906,-73.852951,#00C8BE
+44,REM,*,REM,Pierrefonds-Roxboro,1,Brossard,45.510205,-73.811632,#00C8BE
+45,REM,*,REM,Sunnybrooke,1,Brossard,45.503839,-73.785701,#00C8BE
+46,STM,1,Ligne 1 - Verte,Angrignon,0,Honoré-Beaugrand,45.446466,-73.603118,#008E4F
+47,STM,1,Ligne 1 - Verte,Monk,0,Honoré-Beaugrand,45.451158,-73.593242,#008E4F
+48,STM,1,Ligne 1 - Verte,Jolicoeur,0,Honoré-Beaugrand,45.45703,-73.581946,#008E4F
+49,STM,1,Ligne 1 - Verte,Verdun,0,Honoré-Beaugrand,45.459417,-73.572272,#008E4F
+50,STM,1,Ligne 1 - Verte,De l'Église,0,Honoré-Beaugrand,45.461894,-73.567074,#008E4F
+51,STM,1,Ligne 1 - Verte,LaSalle,0,Honoré-Beaugrand,45.471063,-73.566267,#008E4F
+52,STM,1,Ligne 1 - Verte,Charlevoix,0,Honoré-Beaugrand,45.478465,-73.569336,#008E4F
+53,STM,1,Ligne 1 - Verte,Lionel-Groulx,0,Honoré-Beaugrand,45.482509,-73.58018,#008E4F
+54,STM,1,Ligne 1 - Verte,Atwater,0,Honoré-Beaugrand,45.489796,-73.586078,#008E4F
+55,STM,1,Ligne 1 - Verte,Guy-Concordia,0,Honoré-Beaugrand,45.49557,-73.57931,#008E4F
+56,STM,1,Ligne 1 - Verte,Peel,0,Honoré-Beaugrand,45.500879,-73.574715,#008E4F
+57,STM,1,Ligne 1 - Verte,Mcgill,0,Honoré-Beaugrand,45.504096,-73.571657,#008E4F
+58,STM,1,Ligne 1 - Verte,Place-des-Arts,0,Honoré-Beaugrand,45.50822,-73.568433,#008E4F
+59,STM,1,Ligne 1 - Verte,Saint-Laurent,0,Honoré-Beaugrand,45.511081,-73.564963,#008E4F
+60,STM,1,Ligne 1 - Verte,Berri-UQAM,0,Honoré-Beaugrand,45.515317,-73.56108,#008E4F
+61,STM,1,Ligne 1 - Verte,Beaudry,0,Honoré-Beaugrand,45.519488,-73.557307,#008E4F
+62,STM,1,Ligne 1 - Verte,Papineau,0,Honoré-Beaugrand,45.524115,-73.552964,#008E4F
+63,STM,1,Ligne 1 - Verte,Frontenac,0,Honoré-Beaugrand,45.533526,-73.552216,#008E4F
+64,STM,1,Ligne 1 - Verte,Préfontaine,0,Honoré-Beaugrand,45.541717,-73.554192,#008E4F
+65,STM,1,Ligne 1 - Verte,Joliette,0,Honoré-Beaugrand,45.54684,-73.551418,#008E4F
+66,STM,1,Ligne 1 - Verte,Pie-IX,0,Honoré-Beaugrand,45.55371,-73.551701,#008E4F
+67,STM,1,Ligne 1 - Verte,Viau,0,Honoré-Beaugrand,45.560878,-73.547427,#008E4F
+68,STM,1,Ligne 1 - Verte,L'Assomption,0,Honoré-Beaugrand,45.569257,-73.547566,#008E4F
+69,STM,1,Ligne 1 - Verte,Cadillac,0,Honoré-Beaugrand,45.576843,-73.54671,#008E4F
+70,STM,1,Ligne 1 - Verte,Langelier,0,Honoré-Beaugrand,45.582745,-73.543148,#008E4F
+71,STM,1,Ligne 1 - Verte,Radisson,0,Honoré-Beaugrand,45.589414,-73.539224,#008E4F
+72,STM,1,Ligne 1 - Verte,Honoré-Beaugrand,0,Honoré-Beaugrand,45.596572,-73.535357,#008E4F
+73,STM,1,Ligne 1 - Verte,Honoré-Beaugrand,1,Angrignon,45.596572,-73.535357,#008E4F
+74,STM,1,Ligne 1 - Verte,Radisson,1,Angrignon,45.589414,-73.539224,#008E4F
+75,STM,1,Ligne 1 - Verte,Langelier,1,Angrignon,45.582745,-73.543148,#008E4F
+76,STM,1,Ligne 1 - Verte,Cadillac,1,Angrignon,45.576843,-73.54671,#008E4F
+77,STM,1,Ligne 1 - Verte,L'Assomption,1,Angrignon,45.569257,-73.547566,#008E4F
+78,STM,1,Ligne 1 - Verte,Viau,1,Angrignon,45.560878,-73.547427,#008E4F
+79,STM,1,Ligne 1 - Verte,Pie-IX,1,Angrignon,45.55371,-73.551701,#008E4F
+80,STM,1,Ligne 1 - Verte,Joliette,1,Angrignon,45.54684,-73.551418,#008E4F
+81,STM,1,Ligne 1 - Verte,Préfontaine,1,Angrignon,45.541717,-73.554192,#008E4F
+82,STM,1,Ligne 1 - Verte,Frontenac,1,Angrignon,45.533526,-73.552216,#008E4F
+83,STM,1,Ligne 1 - Verte,Papineau,1,Angrignon,45.524115,-73.552964,#008E4F
+84,STM,1,Ligne 1 - Verte,Beaudry,1,Angrignon,45.519488,-73.557307,#008E4F
+85,STM,1,Ligne 1 - Verte,Berri-UQAM,1,Angrignon,45.515317,-73.56108,#008E4F
+86,STM,1,Ligne 1 - Verte,Saint-Laurent,1,Angrignon,45.511081,-73.564963,#008E4F
+87,STM,1,Ligne 1 - Verte,Place-des-Arts,1,Angrignon,45.50822,-73.568433,#008E4F
+88,STM,1,Ligne 1 - Verte,Mcgill,1,Angrignon,45.504096,-73.571657,#008E4F
+89,STM,1,Ligne 1 - Verte,Peel,1,Angrignon,45.500879,-73.574715,#008E4F
+90,STM,1,Ligne 1 - Verte,Guy-Concordia,1,Angrignon,45.49557,-73.57931,#008E4F
+91,STM,1,Ligne 1 - Verte,Atwater,1,Angrignon,45.489796,-73.586078,#008E4F
+92,STM,1,Ligne 1 - Verte,Lionel-Groulx,1,Angrignon,45.482509,-73.58018,#008E4F
+93,STM,1,Ligne 1 - Verte,Charlevoix,1,Angrignon,45.478465,-73.569336,#008E4F
+94,STM,1,Ligne 1 - Verte,LaSalle,1,Angrignon,45.471063,-73.566267,#008E4F
+95,STM,1,Ligne 1 - Verte,De l'Église,1,Angrignon,45.461894,-73.567074,#008E4F
+96,STM,1,Ligne 1 - Verte,Verdun,1,Angrignon,45.459417,-73.572272,#008E4F
+97,STM,1,Ligne 1 - Verte,Jolicoeur,1,Angrignon,45.45703,-73.581946,#008E4F
+98,STM,1,Ligne 1 - Verte,Monk,1,Angrignon,45.451158,-73.593242,#008E4F
+99,STM,1,Ligne 1 - Verte,Angrignon,1,Angrignon,45.446466,-73.603118,#008E4F
+100,STM,2,Ligne 2 - Orange,Côte-Vertu,0,Montmorency -Zone B,45.514254,-73.682752,#EF8122
+101,STM,2,Ligne 2 - Orange,Du Collège,0,Montmorency -Zone B,45.509168,-73.674705,#EF8122
+102,STM,2,Ligne 2 - Orange,De la Savane,0,Montmorency -Zone B,45.500087,-73.66158,#EF8122
+103,STM,2,Ligne 2 - Orange,Namur,0,Montmorency -Zone B,45.494688,-73.652778,#EF8122
+104,STM,2,Ligne 2 - Orange,Plamondon,0,Montmorency -Zone B,45.494656,-73.638269,#EF8122
+105,STM,2,Ligne 2 - Orange,Côte-Sainte-Catherine,0,Montmorency -Zone B,45.492344,-73.633104,#EF8122
+106,STM,2,Ligne 2 - Orange,Snowdon,0,Montmorency -Zone B,45.485632,-73.628104,#EF8122
+107,STM,2,Ligne 2 - Orange,Villa-Maria,0,Montmorency -Zone B,45.47975,-73.619761,#EF8122
+108,STM,2,Ligne 2 - Orange,Vendôme,0,Montmorency -Zone B,45.473908,-73.603762,#EF8122
+109,STM,2,Ligne 2 - Orange,Place-Saint-Henri,0,Montmorency -Zone B,45.47732,-73.586629,#EF8122
+110,STM,2,Ligne 2 - Orange,Lionel-Groulx,0,Montmorency -Zone B,45.482509,-73.58018,#EF8122
+111,STM,2,Ligne 2 - Orange,Georges-Vanier,0,Montmorency -Zone B,45.488941,-73.576457,#EF8122
+112,STM,2,Ligne 2 - Orange,Lucien-L'Allier,0,Montmorency -Zone B,45.494765,-73.571103,#EF8122
+113,STM,2,Ligne 2 - Orange,Bonaventure,0,Montmorency -Zone B,45.49813,-73.567293,#EF8122
+114,STM,2,Ligne 2 - Orange,Square-Victoria–OACI,0,Montmorency -Zone B,45.50191,-73.5631,#EF8122
+115,STM,2,Ligne 2 - Orange,Place-d'Armes,0,Montmorency -Zone B,45.506348,-73.559548,#EF8122
+116,STM,2,Ligne 2 - Orange,Champ-de-Mars,0,Montmorency -Zone B,45.510064,-73.556445,#EF8122
+117,STM,2,Ligne 2 - Orange,Berri-UQAM,0,Montmorency -Zone B,45.515242,-73.561025,#EF8122
+118,STM,2,Ligne 2 - Orange,Sherbrooke,0,Montmorency -Zone B,45.51906,-73.569217,#EF8122
+119,STM,2,Ligne 2 - Orange,Mont-Royal,0,Montmorency -Zone B,45.524815,-73.581707,#EF8122
+120,STM,2,Ligne 2 - Orange,Laurier,0,Montmorency -Zone B,45.527436,-73.587002,#EF8122
+121,STM,2,Ligne 2 - Orange,Rosemont,0,Montmorency -Zone B,45.531736,-73.597696,#EF8122
+122,STM,2,Ligne 2 - Orange,Beaubien,0,Montmorency -Zone B,45.535078,-73.605037,#EF8122
+123,STM,2,Ligne 2 - Orange,Jean-Talon,0,Montmorency -Zone B,45.538911,-73.613941,#EF8122
+124,STM,2,Ligne 2 - Orange,Jarry,0,Montmorency -Zone B,45.543156,-73.628721,#EF8122
+125,STM,2,Ligne 2 - Orange,Crémazie,0,Montmorency -Zone B,45.545999,-73.638842,#EF8122
+126,STM,2,Ligne 2 - Orange,Sauvé,0,Montmorency -Zone B,45.550895,-73.656102,#EF8122
+127,STM,2,Ligne 2 - Orange,Henri-Bourassa,0,Montmorency -Zone B,45.554441,-73.668474,#EF8122
+128,STM,2,Ligne 2 - Orange,Cartier,0,Montmorency -Zone B,45.560043,-73.682229,#EF8122
+129,STM,2,Ligne 2 - Orange,De la Concorde,0,Montmorency -Zone B,45.560686,-73.709391,#EF8122
+130,STM,2,Ligne 2 - Orange,Montmorency,0,Montmorency -Zone B,45.558459,-73.722422,#EF8122
+131,STM,2,Ligne 2 - Orange,Montmorency,1,Côte-Vertu,45.558459,-73.722422,#EF8122
+132,STM,2,Ligne 2 - Orange,De la Concorde,1,Côte-Vertu,45.560686,-73.709391,#EF8122
+133,STM,2,Ligne 2 - Orange,Cartier,1,Côte-Vertu,45.560043,-73.682229,#EF8122
+134,STM,2,Ligne 2 - Orange,Henri-Bourassa,1,Côte-Vertu,45.554441,-73.668474,#EF8122
+135,STM,2,Ligne 2 - Orange,Sauvé,1,Côte-Vertu,45.550895,-73.656102,#EF8122
+136,STM,2,Ligne 2 - Orange,Crémazie,1,Côte-Vertu,45.545999,-73.638842,#EF8122
+137,STM,2,Ligne 2 - Orange,Jarry,1,Côte-Vertu,45.543156,-73.628721,#EF8122
+138,STM,2,Ligne 2 - Orange,Jean-Talon,1,Côte-Vertu,45.538911,-73.613941,#EF8122
+139,STM,2,Ligne 2 - Orange,Beaubien,1,Côte-Vertu,45.535078,-73.605037,#EF8122
+140,STM,2,Ligne 2 - Orange,Rosemont,1,Côte-Vertu,45.531736,-73.597696,#EF8122
+141,STM,2,Ligne 2 - Orange,Laurier,1,Côte-Vertu,45.527436,-73.587002,#EF8122
+142,STM,2,Ligne 2 - Orange,Mont-Royal,1,Côte-Vertu,45.524815,-73.581707,#EF8122
+143,STM,2,Ligne 2 - Orange,Sherbrooke,1,Côte-Vertu,45.51906,-73.569217,#EF8122
+144,STM,2,Ligne 2 - Orange,Berri-UQAM,1,Côte-Vertu,45.515242,-73.561025,#EF8122
+145,STM,2,Ligne 2 - Orange,Champ-de-Mars,1,Côte-Vertu,45.510064,-73.556445,#EF8122
+146,STM,2,Ligne 2 - Orange,Place-d'Armes,1,Côte-Vertu,45.506348,-73.559548,#EF8122
+147,STM,2,Ligne 2 - Orange,Square-Victoria–OACI,1,Côte-Vertu,45.50191,-73.5631,#EF8122
+148,STM,2,Ligne 2 - Orange,Bonaventure,1,Côte-Vertu,45.49813,-73.567293,#EF8122
+149,STM,2,Ligne 2 - Orange,Lucien-L'Allier,1,Côte-Vertu,45.494765,-73.571103,#EF8122
+150,STM,2,Ligne 2 - Orange,Georges-Vanier,1,Côte-Vertu,45.488941,-73.576457,#EF8122
+151,STM,2,Ligne 2 - Orange,Lionel-Groulx,1,Côte-Vertu,45.482509,-73.58018,#EF8122
+152,STM,2,Ligne 2 - Orange,Place-Saint-Henri,1,Côte-Vertu,45.47732,-73.586629,#EF8122
+153,STM,2,Ligne 2 - Orange,Vendôme,1,Côte-Vertu,45.473908,-73.603762,#EF8122
+154,STM,2,Ligne 2 - Orange,Villa-Maria,1,Côte-Vertu,45.47975,-73.619761,#EF8122
+155,STM,2,Ligne 2 - Orange,Snowdon,1,Côte-Vertu,45.485632,-73.628104,#EF8122
+156,STM,2,Ligne 2 - Orange,Côte-Sainte-Catherine,1,Côte-Vertu,45.492344,-73.633104,#EF8122
+157,STM,2,Ligne 2 - Orange,Plamondon,1,Côte-Vertu,45.494656,-73.638269,#EF8122
+158,STM,2,Ligne 2 - Orange,Namur,1,Côte-Vertu,45.494688,-73.652778,#EF8122
+159,STM,2,Ligne 2 - Orange,De la Savane,1,Côte-Vertu,45.500087,-73.66158,#EF8122
+160,STM,2,Ligne 2 - Orange,Du Collège,1,Côte-Vertu,45.509168,-73.674705,#EF8122
+161,STM,2,Ligne 2 - Orange,Côte-Vertu,1,Côte-Vertu,45.514254,-73.682752,#EF8122
+162,STM,4,Ligne 4 - Jaune,Longueuil–Université-de-Sherbrooke,0,Berri-UQAM,45.52463,-73.521976,#FFD200
+163,STM,4,Ligne 4 - Jaune,Jean-Drapeau,0,Berri-UQAM,45.512454,-73.533128,#FFD200
+164,STM,4,Ligne 4 - Jaune,Berri-UQAM,0,Berri-UQAM,45.514375,-73.561912,#FFD200
+165,STM,4,Ligne 4 - Jaune,Berri-UQAM,1,Longueuil-Université de Sherbrooke -Zone B,45.514375,-73.561912,#FFD200
+166,STM,4,Ligne 4 - Jaune,Jean-Drapeau,1,Longueuil-Université de Sherbrooke -Zone B,45.512454,-73.533128,#FFD200
+167,STM,4,Ligne 4 - Jaune,Longueuil–Université-de-Sherbrooke,1,Longueuil-Université de Sherbrooke -Zone B,45.52463,-73.521976,#FFD200
+168,STM,5,Ligne 5 - Bleue,Snowdon,0,Saint-Michel,45.48572,-73.628552,#0083CA
+169,STM,5,Ligne 5 - Bleue,Côte-des-Neiges,0,Saint-Michel,45.496778,-73.623389,#0083CA
+170,STM,5,Ligne 5 - Bleue,Université-de-Montréal,0,Saint-Michel,45.503318,-73.617641,#0083CA
+171,STM,5,Ligne 5 - Bleue,Édouard-Montpetit,0,Saint-Michel,45.509908,-73.61281,#0083CA
+172,STM,5,Ligne 5 - Bleue,Outremont,0,Saint-Michel,45.520281,-73.614856,#0083CA
+173,STM,5,Ligne 5 - Bleue,Acadie,0,Saint-Michel,45.523383,-73.623285,#0083CA
+174,STM,5,Ligne 5 - Bleue,Du Parc,0,Saint-Michel,45.530177,-73.624559,#0083CA
+175,STM,5,Ligne 5 - Bleue,De Castelnau,0,Saint-Michel,45.535469,-73.619874,#0083CA
+176,STM,5,Ligne 5 - Bleue,Jean-Talon,0,Saint-Michel,45.539201,-73.615064,#0083CA
+177,STM,5,Ligne 5 - Bleue,Fabre,0,Saint-Michel,45.546738,-73.608152,#0083CA
+178,STM,5,Ligne 5 - Bleue,Iberville,0,Saint-Michel,45.553578,-73.601986,#0083CA
+179,STM,5,Ligne 5 - Bleue,Saint-Michel,0,Saint-Michel,45.559573,-73.600023,#0083CA
+180,STM,5,Ligne 5 - Bleue,Saint-Michel,1,Snowdon,45.559573,-73.600023,#0083CA
+181,STM,5,Ligne 5 - Bleue,Iberville,1,Snowdon,45.553578,-73.601986,#0083CA
+182,STM,5,Ligne 5 - Bleue,Fabre,1,Snowdon,45.546738,-73.608152,#0083CA
+183,STM,5,Ligne 5 - Bleue,Jean-Talon,1,Snowdon,45.539201,-73.615064,#0083CA
+184,STM,5,Ligne 5 - Bleue,De Castelnau,1,Snowdon,45.535469,-73.619874,#0083CA
+185,STM,5,Ligne 5 - Bleue,Du Parc,1,Snowdon,45.530177,-73.624559,#0083CA
+186,STM,5,Ligne 5 - Bleue,Acadie,1,Snowdon,45.523383,-73.623285,#0083CA
+187,STM,5,Ligne 5 - Bleue,Outremont,1,Snowdon,45.520281,-73.614856,#0083CA
+188,STM,5,Ligne 5 - Bleue,Édouard-Montpetit,1,Snowdon,45.509908,-73.61281,#0083CA
+189,STM,5,Ligne 5 - Bleue,Université-de-Montréal,1,Snowdon,45.503318,-73.617641,#0083CA
+190,STM,5,Ligne 5 - Bleue,Côte-des-Neiges,1,Snowdon,45.496778,-73.623389,#0083CA
+191,STM,5,Ligne 5 - Bleue,Snowdon,1,Snowdon,45.48572,-73.628552,#0083CA
