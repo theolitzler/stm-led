@@ -1,0 +1,569 @@
+{
+  "_comment": "Positions schematiques sur une grille octilineaire (angles 0/45/90).",
+  "_comment2": "Unites arbitraires. Le generateur SVG les convertit en mm.",
+  "_comment3": "Editez les x,y pour ajuster la mise en page.",
+  "grid_unit_mm": 9,
+  "line_width_mm": 2.5,
+  "station_radius_mm": 1.8,
+  "rail_gap_mm": 3.5,
+  "font_size_mm": 2.2,
+  "lines": {
+    "1": {
+      "name": "Ligne 1 - Verte",
+      "color": "#008E4F",
+      "stations": [
+        {
+          "name": "Angrignon",
+          "x": 6,
+          "y": 37
+        },
+        {
+          "name": "Monk",
+          "x": 8,
+          "y": 35
+        },
+        {
+          "name": "Jolicoeur",
+          "x": 10,
+          "y": 33
+        },
+        {
+          "name": "Verdun",
+          "x": 12,
+          "y": 31
+        },
+        {
+          "name": "De l'Église",
+          "x": 14,
+          "y": 29
+        },
+        {
+          "name": "LaSalle",
+          "x": 15,
+          "y": 27
+        },
+        {
+          "name": "Charlevoix",
+          "x": 16,
+          "y": 25
+        },
+        {
+          "name": "Lionel-Groulx",
+          "x": 17,
+          "y": 23
+        },
+        {
+          "name": "Atwater",
+          "x": 19,
+          "y": 22
+        },
+        {
+          "name": "Guy-Concordia",
+          "x": 21,
+          "y": 21
+        },
+        {
+          "name": "Peel",
+          "x": 23,
+          "y": 21
+        },
+        {
+          "name": "McGill",
+          "x": 25,
+          "y": 21
+        },
+        {
+          "name": "Place-des-Arts",
+          "x": 27,
+          "y": 21
+        },
+        {
+          "name": "Saint-Laurent",
+          "x": 29,
+          "y": 21
+        },
+        {
+          "name": "Berri-UQAM",
+          "x": 31,
+          "y": 21
+        },
+        {
+          "name": "Beaudry",
+          "x": 33,
+          "y": 20
+        },
+        {
+          "name": "Papineau",
+          "x": 35,
+          "y": 19
+        },
+        {
+          "name": "Frontenac",
+          "x": 37,
+          "y": 18
+        },
+        {
+          "name": "Préfontaine",
+          "x": 39,
+          "y": 17
+        },
+        {
+          "name": "Joliette",
+          "x": 41,
+          "y": 16
+        },
+        {
+          "name": "Pie-IX",
+          "x": 43,
+          "y": 15
+        },
+        {
+          "name": "Viau",
+          "x": 45,
+          "y": 14
+        },
+        {
+          "name": "L'Assomption",
+          "x": 47,
+          "y": 13
+        },
+        {
+          "name": "Cadillac",
+          "x": 49,
+          "y": 13
+        },
+        {
+          "name": "Langelier",
+          "x": 51,
+          "y": 13
+        },
+        {
+          "name": "Radisson",
+          "x": 53,
+          "y": 12
+        },
+        {
+          "name": "Honoré-Beaugrand",
+          "x": 55,
+          "y": 11
+        }
+      ]
+    },
+    "2": {
+      "name": "Ligne 2 - Orange",
+      "color": "#EF8122",
+      "stations": [
+        {
+          "name": "Côte-Vertu",
+          "x": 13,
+          "y": 10
+        },
+        {
+          "name": "Du Collège",
+          "x": 14,
+          "y": 12
+        },
+        {
+          "name": "De la Savane",
+          "x": 15,
+          "y": 14
+        },
+        {
+          "name": "Namur",
+          "x": 16,
+          "y": 16
+        },
+        {
+          "name": "Plamondon",
+          "x": 17,
+          "y": 17
+        },
+        {
+          "name": "Côte-Sainte-Catherine",
+          "x": 18,
+          "y": 18
+        },
+        {
+          "name": "Snowdon",
+          "x": 19,
+          "y": 19
+        },
+        {
+          "name": "Villa-Maria",
+          "x": 18,
+          "y": 21
+        },
+        {
+          "name": "Vendôme",
+          "x": 16,
+          "y": 22
+        },
+        {
+          "name": "Place-Saint-Henri",
+          "x": 16,
+          "y": 24
+        },
+        {
+          "name": "Lionel-Groulx",
+          "x": 17,
+          "y": 23,
+          "_alias": true,
+          "_comment": "meme position que sur la verte"
+        },
+        {
+          "name": "Georges-Vanier",
+          "x": 19,
+          "y": 24
+        },
+        {
+          "name": "Lucien-L'Allier",
+          "x": 21,
+          "y": 24
+        },
+        {
+          "name": "Bonaventure",
+          "x": 23,
+          "y": 24
+        },
+        {
+          "name": "Square-Victoria–OACI",
+          "x": 25,
+          "y": 24
+        },
+        {
+          "name": "Place-d'Armes",
+          "x": 27,
+          "y": 23
+        },
+        {
+          "name": "Champ-de-Mars",
+          "x": 29,
+          "y": 22
+        },
+        {
+          "name": "Berri-UQAM",
+          "x": 31,
+          "y": 21,
+          "_alias": true
+        },
+        {
+          "name": "Sherbrooke",
+          "x": 31,
+          "y": 19
+        },
+        {
+          "name": "Mont-Royal",
+          "x": 31,
+          "y": 17
+        },
+        {
+          "name": "Laurier",
+          "x": 31,
+          "y": 15
+        },
+        {
+          "name": "Rosemont",
+          "x": 31,
+          "y": 13
+        },
+        {
+          "name": "Beaubien",
+          "x": 31,
+          "y": 11
+        },
+        {
+          "name": "Jean-Talon",
+          "x": 31,
+          "y": 9
+        },
+        {
+          "name": "Jarry",
+          "x": 31,
+          "y": 7
+        },
+        {
+          "name": "Crémazie",
+          "x": 31,
+          "y": 5
+        },
+        {
+          "name": "Sauvé",
+          "x": 30,
+          "y": 3
+        },
+        {
+          "name": "Henri-Bourassa",
+          "x": 29,
+          "y": 1
+        },
+        {
+          "name": "Cartier",
+          "x": 27,
+          "y": 0
+        },
+        {
+          "name": "De la Concorde",
+          "x": 25,
+          "y": -1
+        },
+        {
+          "name": "Montmorency",
+          "x": 23,
+          "y": -2
+        }
+      ]
+    },
+    "4": {
+      "name": "Ligne 4 - Jaune",
+      "color": "#FFD200",
+      "stations": [
+        {
+          "name": "Berri-UQAM",
+          "x": 31,
+          "y": 21,
+          "_alias": true
+        },
+        {
+          "name": "Jean-Drapeau",
+          "x": 35,
+          "y": 25
+        },
+        {
+          "name": "Longueuil–Université-de-Sherbrooke",
+          "x": 39,
+          "y": 29
+        }
+      ]
+    },
+    "5": {
+      "name": "Ligne 5 - Bleue",
+      "color": "#0083CA",
+      "stations": [
+        {
+          "name": "Snowdon",
+          "x": 19,
+          "y": 19,
+          "_alias": true
+        },
+        {
+          "name": "Côte-des-Neiges",
+          "x": 21,
+          "y": 17
+        },
+        {
+          "name": "Université-de-Montréal",
+          "x": 23,
+          "y": 15
+        },
+        {
+          "name": "Édouard-Montpetit",
+          "x": 25,
+          "y": 13
+        },
+        {
+          "name": "Outremont",
+          "x": 27,
+          "y": 11
+        },
+        {
+          "name": "Acadie",
+          "x": 28,
+          "y": 10
+        },
+        {
+          "name": "Du Parc",
+          "x": 30,
+          "y": 9,
+          "_comment": "pres de Jean-Talon"
+        },
+        {
+          "name": "De Castelnau",
+          "x": 32,
+          "y": 8
+        },
+        {
+          "name": "Jean-Talon",
+          "x": 31,
+          "y": 9,
+          "_alias": true,
+          "_comment": "interchange avec orange"
+        },
+        {
+          "name": "Fabre",
+          "x": 34,
+          "y": 7
+        },
+        {
+          "name": "Iberville",
+          "x": 36,
+          "y": 6
+        },
+        {
+          "name": "Saint-Michel",
+          "x": 38,
+          "y": 5
+        }
+      ]
+    },
+    "REM": {
+      "name": "REM",
+      "color": "#00C8BE",
+      "branches": {
+        "trunk": [
+          {
+            "name": "Brossard",
+            "x": 49,
+            "y": 39
+          },
+          {
+            "name": "Du Quartier",
+            "x": 47,
+            "y": 37
+          },
+          {
+            "name": "Panama",
+            "x": 45,
+            "y": 35
+          },
+          {
+            "name": "Île-des-Sœurs",
+            "x": 39,
+            "y": 31
+          },
+          {
+            "name": "Gare Centrale",
+            "x": 29,
+            "y": 25
+          },
+          {
+            "name": "McGill",
+            "x": 25,
+            "y": 21,
+            "_comment": "pres du McGill metro"
+          },
+          {
+            "name": "Édouard-Montpetit",
+            "x": 23,
+            "y": 17,
+            "_comment": "pres du metro bleue"
+          },
+          {
+            "name": "Canora",
+            "x": 21,
+            "y": 15
+          },
+          {
+            "name": "Ville-de-Mont-Royal",
+            "x": 19,
+            "y": 13
+          },
+          {
+            "name": "Côte-de-Liesse",
+            "x": 17,
+            "y": 11
+          },
+          {
+            "name": "Montpellier",
+            "x": 15,
+            "y": 9
+          },
+          {
+            "name": "Du Ruisseau",
+            "x": 13,
+            "y": 7
+          },
+          {
+            "name": "Bois-Franc",
+            "x": 11,
+            "y": 5
+          }
+        ],
+        "deux_montagnes": [
+          {
+            "name": "Sunnybrooke",
+            "x": 9,
+            "y": 3
+          },
+          {
+            "name": "Pierrefonds-Roxboro",
+            "x": 7,
+            "y": 1
+          },
+          {
+            "name": "Île-Bigras",
+            "x": 5,
+            "y": -1
+          },
+          {
+            "name": "Sainte-Dorothée",
+            "x": 3,
+            "y": -3
+          },
+          {
+            "name": "Grand-Moulin",
+            "x": 1,
+            "y": -5
+          },
+          {
+            "name": "Deux-Montagnes",
+            "x": -1,
+            "y": -7
+          }
+        ],
+        "anse_a_lorme": [
+          {
+            "name": "Des Sources",
+            "x": 8,
+            "y": 5
+          },
+          {
+            "name": "Fairview–Pointe-Claire",
+            "x": 5,
+            "y": 5
+          },
+          {
+            "name": "Kirkland",
+            "x": 2,
+            "y": 5
+          },
+          {
+            "name": "Anse-à-l'Orme",
+            "x": -1,
+            "y": 5
+          }
+        ]
+      }
+    }
+  },
+  "interchanges": [
+    {
+      "station": "Lionel-Groulx",
+      "lines": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "station": "Berri-UQAM",
+      "lines": [
+        "1",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "station": "Snowdon",
+      "lines": [
+        "2",
+        "5"
+      ]
+    },
+    {
+      "station": "Jean-Talon",
+      "lines": [
+        "2",
+        "5"
+      ]
+    }
+  ]
+}

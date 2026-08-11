@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "author": "novscale – Mavira Space",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-pi-pico-w",
+      "id": "pico",
+      "top": 0,
+      "left": 0,
+      "attrs": {
+        "env": "circuitpython-9"
+      }
+    },
+    {
+      "type": "wokwi-neopixel-ring",
+      "id": "ring1",
+      "top": 200,
+      "left": -100,
+      "attrs": {
+        "pixels": "16"
+      }
+    },
+    {
+      "type": "wokwi-neopixel-ring",
+      "id": "ring2",
+      "top": 200,
+      "left": 100,
+      "attrs": {
+        "pixels": "16"
+      }
+    }
+  ],
+  "connections": [
+    [ "pico:GP0", "ring1:DIN", "green", ["v:100"] ],
+    [ "pico:GND.1", "ring1:VSS", "black", ["v:120"] ],
+    [ "pico:VBUS", "ring1:VDD", "red", ["v:80"] ],
+    [ "ring1:DOUT", "ring2:DIN", "green", ["h:50"] ],
+    [ "ring1:VSS", "ring2:VSS", "black", ["h:50"] ],
+    [ "ring1:VDD", "ring2:VDD", "red", ["h:50"] ]
+  ]
+}
