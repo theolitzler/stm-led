@@ -60,10 +60,10 @@ METRO_ROUTE_IDS_FALLBACK = {"1", "2", "4", "5"}
 
 LINE_NAMES = {"1": "Verte", "2": "Orange", "4": "Jaune", "5": "Bleue"}
 LINE_COLORS = {  # approximations des couleurs officielles, en RGB
-    "1": (0, 142, 79),
-    "2": (239, 129, 34),
+    "1": (0, 180, 0),
+    "2": (255, 45, 0),
     "4": (255, 210, 0),
-    "5": (0, 131, 202),
+    "5": (0, 80, 255),
 }
 
 # Couleurs de repli pour les lignes hors metro STM (REM, exo...).
@@ -73,7 +73,7 @@ LINE_COLORS = {  # approximations des couleurs officielles, en RGB
 # Le rouge est volontairement absent : il est reserve a la signalisation des
 # interruptions de service. Un reseau rouge en permanence rendrait l'alerte
 # illisible sur le panneau.
-FALLBACK_COLORS = [(0, 200, 190),    # turquoise (couleur de marque du REM)
+FALLBACK_COLORS = [(0, 200, 190),    # turquoise (calibre sur WS2812B physique)
                    (200, 40, 150),   # magenta
                    (140, 70, 220),   # violet
                    (255, 120, 180),  # rose
