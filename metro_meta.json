@@ -1,9 +1,9 @@
 {
-  "n_leds": 96,
+  "n_leds": 192,
   "n_days": 3,
   "n_minutes": 1440,
   "palette_offset": 10,
-  "data_offset": 298,
-  "frame_size": 96,
-  "file_size": 415018
+  "data_offset": 586,
+  "frame_size": 192,
+  "file_size": 830026
 }
